@@ -12,6 +12,6 @@ Youtube
  - element-ui Library설치
  - element-ui 컴포넌트를 활용법
  - vue의 기본적인 사용법
-  -- component에 data 연결
-  -- button에 click 이벤트 연결
-  -- method 생성
+   - component에 data 연결
+   - button에 click 이벤트 연결
+   - method 생성
